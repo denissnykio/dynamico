@@ -58,7 +58,7 @@
     "plop": "^2.3.0",
     "promisepipe": "^3.0.0",
     "rollup-plugin-peer-deps-external": "^2.2.0",
-    "rollup-plugin-typescript2": "^0.20.1",
+    "rollup-plugin-typescript2": "^0.24.3",
     "tar": "^4.4.8",
     "typescript": "^3.3.3333",
     "update-notifier": "^2.5.0",
